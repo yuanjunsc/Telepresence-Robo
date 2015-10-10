@@ -1,0 +1,17 @@
+C:\Users\yuanjun\Desktop\我的工作\手柄\joystick-src\JoystickInterface\bin\Debug\JoystickInterface.XML
+C:\Users\yuanjun\Desktop\我的工作\手柄\joystick-src\JoystickInterface\bin\Debug\JoystickInterface.dll
+C:\Users\yuanjun\Desktop\我的工作\手柄\joystick-src\JoystickInterface\bin\Debug\JoystickInterface.pdb
+C:\Users\yuanjun\Desktop\我的工作\手柄\joystick-src\JoystickInterface\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\yuanjun\Desktop\我的工作\手柄\joystick-src\JoystickInterface\obj\Debug\JoystickInterface.dll
+C:\Users\yuanjun\Desktop\我的工作\手柄\joystick-src\JoystickInterface\obj\Debug\JoystickInterface.pdb
+C:\Users\yuanjun\Desktop\joystick-src\JoystickInterface\bin\Debug\JoystickInterface.dll
+C:\Users\yuanjun\Desktop\joystick-src\JoystickInterface\bin\Debug\JoystickInterface.pdb
+C:\Users\yuanjun\Desktop\joystick-src\JoystickInterface\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\yuanjun\Desktop\joystick-src\JoystickInterface\obj\Debug\JoystickInterface.dll
+C:\Users\yuanjun\Desktop\joystick-src\JoystickInterface\obj\Debug\JoystickInterface.pdb
+C:\Users\yuanjun\Desktop\上位机（摄像头2版）\joystick-src\JoystickInterface\bin\Debug\JoystickInterface.dll
+C:\Users\yuanjun\Desktop\上位机（摄像头2版）\joystick-src\JoystickInterface\bin\Debug\JoystickInterface.pdb
+C:\Users\yuanjun\Desktop\上位机（摄像头2版）\joystick-src\JoystickInterface\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\yuanjun\Desktop\上位机（摄像头2版）\joystick-src\JoystickInterface\obj\Debug\JoystickInterface.dll
+C:\Users\yuanjun\Desktop\上位机（摄像头2版）\joystick-src\JoystickInterface\obj\Debug\JoystickInterface.pdb
+C:\Users\yuanjun\Desktop\上位机（摄像头2版）\joystick-src\JoystickInterface\bin\Debug\JoystickInterface.XML

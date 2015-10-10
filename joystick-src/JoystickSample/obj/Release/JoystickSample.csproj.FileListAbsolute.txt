@@ -1,0 +1,13 @@
+C:\Users\Administrator\Desktop\当务之急\1.19改进版\1.19改进版\1.19点动版\joystick-src\JoystickSample\bin\Release\JoystickSample.exe
+C:\Users\Administrator\Desktop\当务之急\1.19改进版\1.19改进版\1.19点动版\joystick-src\JoystickSample\bin\Release\JoystickSample.pdb
+C:\Users\Administrator\Desktop\当务之急\1.19改进版\1.19改进版\1.19点动版\joystick-src\JoystickSample\bin\Release\JoystickInterface.dll
+C:\Users\Administrator\Desktop\当务之急\1.19改进版\1.19改进版\1.19点动版\joystick-src\JoystickSample\bin\Release\JoystickInterface.pdb
+C:\Users\Administrator\Desktop\当务之急\1.19改进版\1.19改进版\1.19点动版\joystick-src\JoystickSample\bin\Release\JoystickInterface.xml
+C:\Users\Administrator\Desktop\当务之急\1.19改进版\1.19改进版\1.19点动版\joystick-src\JoystickSample\obj\Release\JoystickSample.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\当务之急\1.19改进版\1.19改进版\1.19点动版\joystick-src\JoystickSample\obj\Release\JoystickSample.Axis.resources
+C:\Users\Administrator\Desktop\当务之急\1.19改进版\1.19改进版\1.19点动版\joystick-src\JoystickSample\obj\Release\JoystickSample.Button.resources
+C:\Users\Administrator\Desktop\当务之急\1.19改进版\1.19改进版\1.19点动版\joystick-src\JoystickSample\obj\Release\JoystickSample.frmMain.resources
+C:\Users\Administrator\Desktop\当务之急\1.19改进版\1.19改进版\1.19点动版\joystick-src\JoystickSample\obj\Release\JoystickSample.Properties.Resources.resources
+C:\Users\Administrator\Desktop\当务之急\1.19改进版\1.19改进版\1.19点动版\joystick-src\JoystickSample\obj\Release\JoystickSample.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\当务之急\1.19改进版\1.19改进版\1.19点动版\joystick-src\JoystickSample\obj\Release\JoystickSample.exe
+C:\Users\Administrator\Desktop\当务之急\1.19改进版\1.19改进版\1.19点动版\joystick-src\JoystickSample\obj\Release\JoystickSample.pdb

@@ -1,0 +1,6 @@
+C:\Users\Administrator\Desktop\当务之急\1.19改进版\1.19改进版\1.19点动版\joystick-src\JoystickInterface\bin\Release\JoystickInterface.XML
+C:\Users\Administrator\Desktop\当务之急\1.19改进版\1.19改进版\1.19点动版\joystick-src\JoystickInterface\bin\Release\JoystickInterface.dll
+C:\Users\Administrator\Desktop\当务之急\1.19改进版\1.19改进版\1.19点动版\joystick-src\JoystickInterface\bin\Release\JoystickInterface.pdb
+C:\Users\Administrator\Desktop\当务之急\1.19改进版\1.19改进版\1.19点动版\joystick-src\JoystickInterface\obj\Release\JoystickInterface.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\当务之急\1.19改进版\1.19改进版\1.19点动版\joystick-src\JoystickInterface\obj\Release\JoystickInterface.dll
+C:\Users\Administrator\Desktop\当务之急\1.19改进版\1.19改进版\1.19点动版\joystick-src\JoystickInterface\obj\Release\JoystickInterface.pdb

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="JoystickSample">
+</Property><Property Name="解决方案文件" Value="C:\Users\yuanjun\Desktop\我的工作\手柄\joystick-src\JoystickSample.sln">
+</Property><Property Name="Date" Value="2013年1月16日">
+</Property><Property Name="Time" Value="11:54">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="JoystickSample.sln" Description="文件已成功备份为 C:\Users\yuanjun\Desktop\我的工作\手柄\joystick-src\Backup\JoystickSample.sln">
+</Event><Event ErrorLevel="0" Project="JoystickSample" Source="JoystickSample\JoystickSample.csproj" Description="项目文件已成功备份为 C:\Users\yuanjun\Desktop\我的工作\手柄\joystick-src\Backup\JoystickSample\JoystickSample.csproj">
+</Event><Event ErrorLevel="0" Project="JoystickSample" Source="JoystickSample\Axis.cs" Description="文件已成功备份为 C:\Users\yuanjun\Desktop\我的工作\手柄\joystick-src\Backup\JoystickSample\Axis.cs">
+</Event><Event ErrorLevel="0" Project="JoystickSample" Source="JoystickSample\Axis.Designer.cs" Description="文件已成功备份为 C:\Users\yuanjun\Desktop\我的工作\手柄\joystick-src\Backup\JoystickSample\Axis.Designer.cs">
+</Event><Event ErrorLevel="0" Project="JoystickSample" Source="JoystickSample\Button.cs" Description="文件已成功备份为 C:\Users\yuanjun\Desktop\我的工作\手柄\joystick-src\Backup\JoystickSample\Button.cs">
+</Event><Event ErrorLevel="0" Project="JoystickSample" Source="JoystickSample\Button.Designer.cs" Description="文件已成功备份为 C:\Users\yuanjun\Desktop\我的工作\手柄\joystick-src\Backup\JoystickSample\Button.Designer.cs">
+</Event><Event ErrorLevel="0" Project="JoystickSample" Source="JoystickSample\frmMain.cs" Description="文件已成功备份为 C:\Users\yuanjun\Desktop\我的工作\手柄\joystick-src\Backup\JoystickSample\frmMain.cs">
+</Event><Event ErrorLevel="0" Project="JoystickSample" Source="JoystickSample\frmMain.Designer.cs" Description="文件已成功备份为 C:\Users\yuanjun\Desktop\我的工作\手柄\joystick-src\Backup\JoystickSample\frmMain.Designer.cs">
+</Event><Event ErrorLevel="0" Project="JoystickSample" Source="JoystickSample\Program.cs" Description="文件已成功备份为 C:\Users\yuanjun\Desktop\我的工作\手柄\joystick-src\Backup\JoystickSample\Program.cs">
+</Event><Event ErrorLevel="0" Project="JoystickSample" Source="JoystickSample\Properties\AssemblyInfo.cs" Description="文件已成功备份为 C:\Users\yuanjun\Desktop\我的工作\手柄\joystick-src\Backup\JoystickSample\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="JoystickSample" Source="JoystickSample\Properties\Resources.Designer.cs" Description="文件已成功备份为 C:\Users\yuanjun\Desktop\我的工作\手柄\joystick-src\Backup\JoystickSample\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="JoystickSample" Source="JoystickSample\Properties\Settings.Designer.cs" Description="文件已成功备份为 C:\Users\yuanjun\Desktop\我的工作\手柄\joystick-src\Backup\JoystickSample\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="JoystickSample" Source="JoystickSample\Properties\Settings.settings" Description="文件已成功备份为 C:\Users\yuanjun\Desktop\我的工作\手柄\joystick-src\Backup\JoystickSample\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="JoystickSample" Source="JoystickSample\Axis.resx" Description="文件已成功备份为 C:\Users\yuanjun\Desktop\我的工作\手柄\joystick-src\Backup\JoystickSample\Axis.resx">
+</Event><Event ErrorLevel="0" Project="JoystickSample" Source="JoystickSample\Button.resx" Description="文件已成功备份为 C:\Users\yuanjun\Desktop\我的工作\手柄\joystick-src\Backup\JoystickSample\Button.resx">
+</Event><Event ErrorLevel="0" Project="JoystickSample" Source="JoystickSample\frmMain.resx" Description="文件已成功备份为 C:\Users\yuanjun\Desktop\我的工作\手柄\joystick-src\Backup\JoystickSample\frmMain.resx">
+</Event><Event ErrorLevel="0" Project="JoystickSample" Source="JoystickSample\Properties\Resources.resx" Description="文件已成功备份为 C:\Users\yuanjun\Desktop\我的工作\手柄\joystick-src\Backup\JoystickSample\Properties\Resources.resx">
+</Event><Event ErrorLevel="1" Project="JoystickSample" Source="JoystickSample\JoystickSample.csproj" Description="您的项目以 .NET Framework 2.0 或 3.0 为目标。如果您的项目使用的程序集需要更新的 .NET Framework，则项目生成将失败。通过单击项目菜单上的“属性”，然后在“.NET Framework”下拉框中选择一个新版本，可以更改 .NET Framework 的版本。(在 Visual Basic 中，可在单击“高级编辑器选项...”按钮时显示的“编译”选项卡上找到此下拉框。)">
+</Event><Event ErrorLevel="0" Project="JoystickSample" Source="JoystickSample\JoystickSample.csproj" Description="项目已成功转换">
+</Event><Event ErrorLevel="3" Project="JoystickSample" Source="JoystickSample\JoystickSample.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="JoystickInterface" Source="JoystickInterface\JoystickInterface.csproj" Description="项目文件已成功备份为 C:\Users\yuanjun\Desktop\我的工作\手柄\joystick-src\Backup\JoystickInterface\JoystickInterface.csproj">
+</Event><Event ErrorLevel="0" Project="JoystickInterface" Source="JoystickInterface\Joystick.cs" Description="文件已成功备份为 C:\Users\yuanjun\Desktop\我的工作\手柄\joystick-src\Backup\JoystickInterface\Joystick.cs">
+</Event><Event ErrorLevel="0" Project="JoystickInterface" Source="JoystickInterface\Properties\AssemblyInfo.cs" Description="文件已成功备份为 C:\Users\yuanjun\Desktop\我的工作\手柄\joystick-src\Backup\JoystickInterface\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="JoystickInterface" Source="JoystickInterface\ClassDiagram1.cd" Description="文件已成功备份为 C:\Users\yuanjun\Desktop\我的工作\手柄\joystick-src\Backup\JoystickInterface\ClassDiagram1.cd">
+</Event><Event ErrorLevel="1" Project="JoystickInterface" Source="JoystickInterface\JoystickInterface.csproj" Description="您的项目以 .NET Framework 2.0 或 3.0 为目标。如果您的项目使用的程序集需要更新的 .NET Framework，则项目生成将失败。通过单击项目菜单上的“属性”，然后在“.NET Framework”下拉框中选择一个新版本，可以更改 .NET Framework 的版本。(在 Visual Basic 中，可在单击“高级编辑器选项...”按钮时显示的“编译”选项卡上找到此下拉框。)">
+</Event><Event ErrorLevel="0" Project="JoystickInterface" Source="JoystickInterface\JoystickInterface.csproj" Description="项目已成功转换">
+</Event><Event ErrorLevel="3" Project="JoystickInterface" Source="JoystickInterface\JoystickInterface.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="JoystickSample.sln" Description="成功转换解决方案">
+</Event><Event ErrorLevel="3" Project="" Source="JoystickSample.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="JoystickSample" Source="JoystickSample\JoystickSample.csproj" Description="扫描完成: 项目文件不需要升级。">
+</Event><Event ErrorLevel="0" Project="JoystickInterface" Source="JoystickInterface\JoystickInterface.csproj" Description="扫描完成: 项目文件不需要升级。">
+</Event></UpgradeLog>

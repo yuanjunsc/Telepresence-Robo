@@ -1,0 +1,19 @@
+﻿------ 已启动生成: 项目: JoystickSample, 配置: Debug Any CPU ------
+C:\Users\yuanjun\Desktop\大创终期\上位机（摄像头2版）\joystick-src\JoystickSample\frmMain.cs(378,30): 警告 CS0168: 声明了变量“err”，但从未使用过
+C:\Users\yuanjun\Desktop\大创终期\上位机（摄像头2版）\joystick-src\JoystickSample\frmMain.cs(45,16): 警告 CS0169: 字段“JoystickSample.frmMain.data”从未被使用过
+
+编译完成 -- 0 个错误，2 个警告
+生成启动时间为 2013/2/24 9:40:46。
+CoreResGen:
+  C:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\ResGen.exe /useSourcePath /r:"C:\Users\yuanjun\Desktop\大创终期\上位机（摄像头2版）\joystick-src\JoystickInterface\bin\Debug\JoystickInterface.dll" /r:C:\Windows\Microsoft.NET\Framework\v2.0.50727\mscorlib.dll /r:C:\Windows\Microsoft.NET\Framework\v2.0.50727\System.Data.dll /r:"C:\Program Files\Microsoft SQL Server Compact Edition\v3.5\Desktop\System.Data.SqlServerCe.dll" /r:C:\Windows\Microsoft.NET\Framework\v2.0.50727\System.Deployment.dll /r:C:\Windows\Microsoft.NET\Framework\v2.0.50727\System.dll /r:C:\Windows\Microsoft.NET\Framework\v2.0.50727\System.Drawing.dll /r:C:\Windows\Microsoft.NET\Framework\v2.0.50727\System.ServiceProcess.dll /r:C:\Windows\Microsoft.NET\Framework\v2.0.50727\System.Transactions.dll /r:C:\Windows\Microsoft.NET\Framework\v2.0.50727\System.Windows.Forms.dll /r:C:\Windows\Microsoft.NET\Framework\v2.0.50727\System.Xml.dll /compile frmMain.resx,obj\Debug\JoystickSample.frmMain.resources 
+CoreCompile:
+  C:\Windows\Microsoft.NET\Framework\v4.0.30319\Csc.exe /noconfig /nowarn:1701,1702 /nostdlib+ /errorreport:prompt /warn:4 /define:DEBUG;TRACE /reference:"C:\Users\yuanjun\Desktop\大创终期\上位机（摄像头2版）\joystick-src\JoystickInterface\bin\Debug\JoystickInterface.dll" /reference:C:\Windows\Microsoft.NET\Framework\v2.0.50727\mscorlib.dll /reference:C:\Windows\Microsoft.NET\Framework\v2.0.50727\System.Data.dll /reference:"C:\Program Files\Microsoft SQL Server Compact Edition\v3.5\Desktop\System.Data.SqlServerCe.dll" /reference:C:\Windows\Microsoft.NET\Framework\v2.0.50727\System.Deployment.dll /reference:C:\Windows\Microsoft.NET\Framework\v2.0.50727\System.dll /reference:C:\Windows\Microsoft.NET\Framework\v2.0.50727\System.Drawing.dll /reference:C:\Windows\Microsoft.NET\Framework\v2.0.50727\System.ServiceProcess.dll /reference:C:\Windows\Microsoft.NET\Framework\v2.0.50727\System.Transactions.dll /reference:C:\Windows\Microsoft.NET\Framework\v2.0.50727\System.Windows.Forms.dll /reference:C:\Windows\Microsoft.NET\Framework\v2.0.50727\System.Xml.dll /debug+ /debug:full /optimize- /out:obj\Debug\JoystickSample.exe /resource:obj\Debug\JoystickSample.Axis.resources /resource:obj\Debug\JoystickSample.Button.resources /resource:obj\Debug\prp.DeviceSelector.resources /resource:obj\Debug\JoystickSample.frmMain.resources /resource:obj\Debug\JoystickSample.Properties.Resources.resources /target:winexe /win32icon:"机器人瓦力.ico" Axis.cs Axis.Designer.cs Button.cs Button.Designer.cs DeviceSelector.cs DeviceSelector.designer.cs dscontrol.cs dscore.cs dsdevice.cs dsextend.cs dsutil.cs frmMain.cs frmMain.Designer.cs Program.cs Properties\AssemblyInfo.cs uuids.cs _sql_datDataSet.Designer.cs _sql_datDataSet1.Designer.cs Properties\Resources.Designer.cs Properties\Settings.Designer.cs
+CopyFilesToOutputDirectory:
+  正在将文件从“obj\Debug\JoystickSample.exe”复制到“bin\Debug\JoystickSample.exe”。
+  JoystickSample -> C:\Users\yuanjun\Desktop\大创终期\上位机（摄像头2版）\joystick-src\JoystickSample\bin\Debug\JoystickSample.exe
+  正在将文件从“obj\Debug\JoystickSample.pdb”复制到“bin\Debug\JoystickSample.pdb”。
+
+生成成功。
+
+已用时间 00:00:01.37
+========== 生成: 成功 1 个，失败 0 个，最新 1 个，跳过 0 个 ==========
